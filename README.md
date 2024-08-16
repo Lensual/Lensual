@@ -10,6 +10,8 @@ I'm 神楽坂喵喵/神楽坂ニャン. You can call me by 喵喵.
 [![Lensual's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lensual&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Lensual's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Lensual&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lensual&langs_count=10&layout=compact)
+
 More Pinned Repositories:
 
 [![akg-k240r](https://github-readme-stats.vercel.app/api/pin/?username=Lensual&repo=agora_rtc_sdk_c)](https://github.com/Lensual/agora_rtc_sdk_c)
