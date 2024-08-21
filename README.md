@@ -36,7 +36,8 @@ I'm 神楽坂喵喵/神楽坂ニャン. You can call me by 喵喵.
 
 <p></p>
 
-<img width="400" height="140" src="https://card.yuy1n.io/card/76561198184547647/dark,en,badge,group">
+<img width="400" src="https://card.yuy1n.io/card/76561198184547647/dark,en,badge,group">
+<a href="https://osu.ppy.sh/u/Lensual"><img src="https://osu-sig.vercel.app/card?user=Lensual&mode=std&animation=true" /></a>
 
 <p></p>
 
