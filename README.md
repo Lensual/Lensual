@@ -36,6 +36,10 @@ I'm 神楽坂喵喵/神楽坂ニャン. You can call me by 喵喵.
 
 <p></p>
 
+<img width="400" height="140" src="https://card.yuy1n.io/card/76561198184547647/dark,en,badge,group">
+
+<p></p>
+
 More Pinned Repositories:
 
 <a href="https://github.com/Lensual/agora_rtc_sdk_c">
@@ -93,6 +97,7 @@ More Pinned Repositories:
     <img height=120 src="https://github-readme-stats.vercel.app/api/pin?username=Lensual&repo=akg-k240r" />
   </picture>
 </a>
+
 
 <!--
 **Lensual/Lensual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
