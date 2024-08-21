@@ -38,10 +38,61 @@ I'm 神楽坂喵喵/神楽坂ニャン. You can call me by 喵喵.
 
 More Pinned Repositories:
 
-[![akg-k240r](https://github-readme-stats.vercel.app/api/pin/?username=Lensual&repo=agora_rtc_sdk_c)](https://github.com/Lensual/agora_rtc_sdk_c)
-[![akg-k240r](https://github-readme-stats.vercel.app/api/pin/?username=Lensual&repo=agora_rtm_sdk_c)](https://github.com/Lensual/agora_rtm_sdk_c)
-[![apisix-secret-casdoor](https://github-readme-stats.vercel.app/api/pin/?username=Lensual&repo=apisix-secret-casdoor)](https://github.com/Lensual/apisix-secret-casdoor)
-[![akg-k240r](https://github-readme-stats.vercel.app/api/pin/?username=Lensual&repo=akg-k240r)](https://github.com/Lensual/akg-k240r)
+<a href="https://github.com/Lensual/agora_rtc_sdk_c">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=Lensual&repo=agora_rtc_sdk_c&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=Lensual&repo=agora_rtc_sdk_c"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=120 src="https://github-readme-stats.vercel.app/api/pin?username=Lensual&repo=agora_rtc_sdk_c" />
+  </picture>
+</a>
+
+<a href="https://github.com/Lensual/agora_rtm_sdk_c">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=Lensual&repo=agora_rtm_sdk_c&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=Lensual&repo=agora_rtm_sdk_c"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=120 src="https://github-readme-stats.vercel.app/api/pin?username=Lensual&repo=agora_rtm_sdk_c" />
+  </picture>
+</a>
+
+<a href="https://github.com/Lensual/apisix-secret-casdoor">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=Lensual&repo=apisix-secret-casdoor&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=Lensual&repo=apisix-secret-casdoor"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=120 src="https://github-readme-stats.vercel.app/api/pin?username=Lensual&repo=apisix-secret-casdoor" />
+  </picture>
+</a>
+
+<a href="https://github.com/Lensual/akg-k240r">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=Lensual&repo=akg-k240r&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=Lensual&repo=akg-k240r&card_width=400"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=120 src="https://github-readme-stats.vercel.app/api/pin?username=Lensual&repo=akg-k240r" />
+  </picture>
+</a>
 
 <!--
 **Lensual/Lensual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
