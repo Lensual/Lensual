@@ -50,6 +50,20 @@ What I am doing recently:
 
 More Pinned Repositories:
 
+<a href="https://github.com/APISIX-Unofficial-UI/apisix-dashboard-unofficial">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=APISIX-Unofficial-UI&repo=apisix-dashboard-unofficial&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=APISIX-Unofficial-UI&repo=apisix-dashboard-unofficial"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=120 src="https://github-readme-stats.vercel.app/api/pin?username=APISIX-Unofficial-UI&repo=apisix-dashboard-unofficial" />
+  </picture>
+</a>
+
 <a href="https://github.com/Lensual/agora_rtc_sdk_c">
   <picture>
     <source
