@@ -4,8 +4,7 @@ I'm 神楽坂喵喵/神楽坂ニャン. You can call me by 喵喵.
 
 - E/INTP
 - Interested in `Infra. Arch. Design` `Engineering` `DIY PC` `Networking` `Hacking`
-- 开源爱好者/社交恐惧/MtF/社会边缘人士/自学者/不愿随波逐流/猝死边缘奋斗逼/全栈/40岁人生终点/干啥啥不行吃饭第一名（划掉）
-- Plan to SRS(MTF) in 2024.
+- 开源爱好者/社交恐惧/术后MtF/社会边缘人士/家里蹲大学/不愿随波逐流/猝死边缘奋斗逼/全栈/40岁人生终点/~~干啥啥不行吃饭第一名~~
 
 <a href="https://github.com/Lensual">
   <picture>
