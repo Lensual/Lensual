@@ -8,7 +8,7 @@ I'm 神楽坂喵喵/神楽坂ニャン. You can call me by 喵喵.
 
 What I am doing recently: 
 
-- Contribute to [APISIX-Unofficial-UI/apisix-dashboard-unofficia](https://github.com/APISIX-Unofficial-UI/apisix-dashboard-unofficial)
+- Contribute to [APISIX-Unofficial-UI/apisix-dashboard-unofficial](https://github.com/APISIX-Unofficial-UI/apisix-dashboard-unofficial)
 - Contribute to [AgoraIO-Extensions/Agora-Golang-Server-SDK](https://github.com/AgoraIO-Extensions/Agora-Golang-Server-SDK)
 - Contribute to [AgoraIO-Extensions/Agora-RTM-Server-SDK-Go](https://github.com/AgoraIO-Extensions/Agora-RTM-Server-SDK-Go)
 
